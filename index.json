@@ -2,85 +2,85 @@
     journeys: 
     [
         {
-            name: "서울여행"
-            desc: "민식이 생일 기념"
-            date: "2022-01-25 ~ 2022-01-29"
+            name: "서울여행",
+            desc: "민식이 생일 기념",
+            date: "2022-01-25 ~ 2022-01-29",
             journeyDetail: [
                 {
-                    thumnailUrl: ""
-                    name: "남산타워"
-                    desc: "남산 자물쇠를 채워보자"
-                    date: "2022-01-25"
+                    thumnailUrl: "",
+                    name: "남산타워",
+                    desc: "남산 자물쇠를 채워보자",
+                    date: "2022-01-25",
                     tag: "휴식"
-                }
+                },
                 {
-                    thumnailUrl: ""
-                    name: "남산타워"
-                    desc: "남산 자물쇠를 채워보자"
-                    date: "2022-01-25"
-                    tag: "휴식"
-                }
+                    thumnailUrl: "",
+                    name: "남산타워",
+                    desc: "남산 자물쇠를 채워보자",
+                    date: "2022-01-25",
+                    tag: "휴식",
+                },
                 {
-                    thumnailUrl: ""
-                    name: "남산타워"
-                    desc: "남산 자물쇠를 채워보자"
-                    date: "2022-01-25"
+                    thumnailUrl: "",
+                    name: "남산타워",
+                    desc: "남산 자물쇠를 채워보자",
+                    date: "2022-01-25",
                     tag: "휴식"
                 }
             ]
-        }
+        },
         {
-            name: "제주도 여행"
-            desc: "여름 휴가"
-            date: "2022-07-25 ~ 2022-07-29"
+            name: "제주도 여행",
+            desc: "여름 휴가",
+            date: "2022-07-25 ~ 2022-07-29",
             journeyDetail: [
                 {
-                    thumnailUrl: ""
-                    name: "한라산"
-                    desc: "한라산 등반"
-                    date: "2022-07-25"
-                    tag: "운동"
-                }
+                    thumnailUrl: "",
+                    name: "한라산",
+                    desc: "한라산 등반",
+                    date: "2022-07-25",
+                    tag: "운동",
+                },
                 {
-                    thumnailUrl: ""
-                    name: "한라산"
-                    desc: "한라산 등반"
-                    date: "2022-07-25"
+                    thumnailUrl: "",
+                    name: "한라산",
+                    desc: "한라산 등반",
+                    date: "2022-07-25",
                     tag: "운동"
-                }
+                },
                 {
-                    thumnailUrl: ""
-                    name: "한라산"
-                    desc: "한라산 등반"
-                    date: "2022-07-25"
+                    thumnailUrl: "",
+                    name: "한라산",
+                    desc: "한라산 등반",
+                    date: "2022-07-25",
                     tag: "운동"
                 }
             ]
-        }
+        },
         {
-            name: "가평여행"
-            desc: "친구들과"
-            date: "2022-01-25 ~ 2022-01-29"
+            name: "가평여행",
+            desc: "친구들과",
+            date: "2022-01-25 ~ 2022-01-29",
             journeyDetail: [
                 {
-                    thumnailUrl: ""
-                    name: "수목원"
-                    desc: "따듯한 햇빛과 함께"
-                    date: "2022-01-25"
+                    thumnailUrl: "",
+                    name: "수목원",
+                    desc: "따듯한 햇빛과 함께",
+                    date: "2022-01-25",
                     tag: "휴식"
-                }
+                },
                 {
-                    thumnailUrl: ""
-                    name: "수목원"
-                    desc: "따듯한 햇빛과 함께"
-                    date: "2022-01-25"
+                    thumnailUrl: "",
+                    name: "수목원",
+                    desc: "따듯한 햇빛과 함께",
+                    date: "2022-01-25",
                     tag: "휴식"
-                }
+                },
                 {
-                    thumnailUrl: ""
-                    name: "수목원"
-                    desc: "따듯한 햇빛과 함께"
-                    date: "2022-01-25"
+                    thumnailUrl: "",
+                    name: "수목원",
+                    desc: "따듯한 햇빛과 함께",
+                    date: "2022-01-25",
                     tag: "휴식"
                 }
             ]
