@@ -7,6 +7,7 @@
             "date": "2022-01-25 ~ 2022-01-29",
             "journeyDetail": [
                 {
+                    "idx": 1,
                     "thumnailUrl": "https://github.com/ScutiUY/testWebHosting/blob/main/Seoul1.jpg",
                     "name": "남산타워",
                     "desc": "남산 자물쇠를 채워보자",
@@ -14,13 +15,15 @@
                     "tag": "휴식"
                 },
                 {
+                    "idx": 2,
                     "thumnailUrl": "https://github.com/ScutiUY/testWebHosting/blob/main/Seoul2.jpg",
                     "name": "남산타워",
                     "desc": "남산 자물쇠를 채워보자",
                     "date": "2022-01-25",
-                    "tag": "휴식",
+                    "tag": "휴식"
                 },
                 {
+                    "idx": 3,
                     "thumnailUrl": "https://github.com/ScutiUY/testWebHosting/blob/main/Seoul3.jpg",
                     "name": "남산타워",
                     "desc": "남산 자물쇠를 채워보자",
@@ -35,13 +38,15 @@
             "date": "2022-07-25 ~ 2022-07-29",
             "journeyDetail": [
                 {
+                    "idx": 2,
                     "thumnailUrl": "https://github.com/ScutiUY/testWebHosting/blob/main/Seoul2.jpg",
                     "name": "한라산",
                     "desc": "한라산 등반",
                     "date": "2022-07-25",
-                    "tag": "운동",
+                    "tag": "운동"
                 },
                 {
+                    "idx": 3,
                     "thumnailUrl": "https://github.com/ScutiUY/testWebHosting/blob/main/Seoul3.jpg",
                     "name": "한라산",
                     "desc": "한라산 등반",
@@ -49,6 +54,7 @@
                     "tag": "운동"
                 },
                 {
+                    "idx": 4,
                     "thumnailUrl": "https://github.com/ScutiUY/testWebHosting/blob/main/Seoul4.jpg",
                     "name": "한라산",
                     "desc": "한라산 등반",
@@ -63,6 +69,7 @@
             "date": "2022-01-25 ~ 2022-01-29",
             "journeyDetail": [
                 {
+                    "idx": 3,
                     "thumnailUrl": "https://github.com/ScutiUY/testWebHosting/blob/main/Seoul4.jpg",
                     "name": "수목원",
                     "desc": "따듯한 햇빛과 함께",
@@ -70,6 +77,7 @@
                     "tag": "휴식"
                 },
                 {
+                    "idx": 4,
                     "thumnailUrl": "https://github.com/ScutiUY/testWebHosting/blob/main/Seoul2.jpg",
                     "name": "수목원",
                     "desc": "따듯한 햇빛과 함께",
@@ -77,6 +85,7 @@
                     "tag": "휴식"
                 },
                 {
+                    "idx": 1,
                     "thumnailUrl": "https://github.com/ScutiUY/testWebHosting/blob/main/Seoul3.jpg",
                     "name": "수목원",
                     "desc": "따듯한 햇빛과 함께",
