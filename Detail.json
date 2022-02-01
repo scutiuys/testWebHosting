@@ -2,7 +2,7 @@
     "resCode": "0000",
     "resMsg": "성공",
     "data": {
-        "idx": 1,
+        "idx": "1",
         "name": "가평수목원",
         "imgUrl": ["https://github.com/ScutiUY/testWebHosting/blob/main/Seoul1.jpg", "https://github.com/ScutiUY/testWebHosting/blob/main/Seoul2.jpg", "https://github.com/ScutiUY/testWebHosting/blob/main/Seoul3.jpg", "https://github.com/ScutiUY/testWebHosting/blob/main/Seoul4.jpg"],
         "address": "대한민국 경기도 가평군 상면 돌아우길 25-121",
